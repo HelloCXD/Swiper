@@ -1,0 +1,5 @@
+
+
+VCODE_ERROR = 1000  # 验证码错误
+LOGIN_REQUIRED = 1001  # 用户未登录
+SUER_NOTEXIST = 1002  # 用户不存在
